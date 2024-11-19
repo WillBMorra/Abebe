@@ -1,0 +1,138 @@
+#Tax generation interval in minutes
+#Range: 1 ~ 1440
+TaxIntervalMinutes = 60
+
+["Building Taxes"]
+	#Tax increase per level for Crusher
+	#Range: 0.0 ~ 1.7976931348623157E308
+	crusherUpgrade = 6.0
+	#Base tax for University
+	#Range: 0.0 ~ 1.7976931348623157E308
+	university = 20.0
+	#Tax increase per level for Warehouse
+	#Range: 0.0 ~ 1.7976931348623157E308
+	warehouseUpgrade = 4.0
+	#Tax increase per level for Builder
+	#Range: 0.0 ~ 1.7976931348623157E308
+	builderUpgrade = 4.0
+	#Tax increase per level for Barracks Tower
+	#Range: 0.0 ~ 1.7976931348623157E308
+	barrackstowerUpgrade = 6.0
+	#Base tax for Miner
+	#Range: 0.0 ~ 1.7976931348623157E308
+	miner = 11.0
+	#Base tax for Blacksmith
+	#Range: 0.0 ~ 1.7976931348623157E308
+	blacksmith = 18.0
+	#Tax increase per level for Cowboy
+	#Range: 0.0 ~ 1.7976931348623157E308
+	cowboyUpgrade = 4.0
+	#Base tax for Library
+	#Range: 0.0 ~ 1.7976931348623157E308
+	library = 13.0
+	#Tax increase per level for Residence
+	#Range: 0.0 ~ 1.7976931348623157E308
+	homeUpgrade = 2.0
+	#Base tax for Builder
+	#Range: 0.0 ~ 1.7976931348623157E308
+	builder = 8.0
+	#Base tax for Tavern
+	#Range: 0.0 ~ 1.7976931348623157E308
+	tavern = 14.0
+	#Tax increase per level for Deliveryman
+	#Range: 0.0 ~ 1.7976931348623157E308
+	deliverymanUpgrade = 5.0
+	#Tax increase per level for Tavern
+	#Range: 0.0 ~ 1.7976931348623157E308
+	tavernUpgrade = 6.0
+	#Base tax for Composter
+	#Range: 0.0 ~ 1.7976931348623157E308
+	composter = 6.0
+	#Base tax for Crusher
+	#Range: 0.0 ~ 1.7976931348623157E308
+	crusher = 13.0
+	#Base tax for Combat Academy
+	#Range: 0.0 ~ 1.7976931348623157E308
+	combatacademy = 14.0
+	#Tax increase per level for Composter
+	#Range: 0.0 ~ 1.7976931348623157E308
+	composterUpgrade = 2.0
+	#Base tax for Cowboy
+	#Range: 0.0 ~ 1.7976931348623157E308
+	cowboy = 9.0
+	#Base tax for Guard Tower
+	#Range: 0.0 ~ 1.7976931348623157E308
+	guardtower = 10.0
+	#Tax increase per level for Guard Tower
+	#Range: 0.0 ~ 1.7976931348623157E308
+	guardtowerUpgrade = 5.0
+	#Base tax for Bakery
+	#Range: 0.0 ~ 1.7976931348623157E308
+	bakery = 10.0
+	#Base tax for Barracks
+	#Range: 0.0 ~ 1.7976931348623157E308
+	barracks = 15.0
+	#Tax increase per level for Combat Academy
+	#Range: 0.0 ~ 1.7976931348623157E308
+	combatacademyUpgrade = 6.0
+	#Base tax for Cook
+	#Range: 0.0 ~ 1.7976931348623157E308
+	cook = 12.0
+	#Base tax for Deliveryman
+	#Range: 0.0 ~ 1.7976931348623157E308
+	deliveryman = 12.0
+	#Tax increase per level for Fisherman
+	#Range: 0.0 ~ 1.7976931348623157E308
+	fishermanUpgrade = 4.0
+	#Tax increase per level for Miner
+	#Range: 0.0 ~ 1.7976931348623157E308
+	minerUpgrade = 5.0
+	#Base tax for Warehouse
+	#Range: 0.0 ~ 1.7976931348623157E308
+	warehouse = 10.0
+	#Tax increase per level for Barracks
+	#Range: 0.0 ~ 1.7976931348623157E308
+	barracksUpgrade = 7.0
+	#Tax increase per level for Farmer
+	#Range: 0.0 ~ 1.7976931348623157E308
+	farmerUpgrade = 5.0
+	#Tax increase per level for Blacksmith
+	#Range: 0.0 ~ 1.7976931348623157E308
+	blacksmithUpgrade = 8.0
+	#Base tax for Residence
+	#Range: 0.0 ~ 1.7976931348623157E308
+	home = 5.0
+	#Tax increase per level for Cook
+	#Range: 0.0 ~ 1.7976931348623157E308
+	cookUpgrade = 5.0
+	#Tax increase per level for Chicken Herder
+	#Range: 0.0 ~ 1.7976931348623157E308
+	chickenherderUpgrade = 3.0
+	#Base tax for Chicken Herder
+	#Range: 0.0 ~ 1.7976931348623157E308
+	chickenherder = 9.0
+	#Base tax for Barracks Tower
+	#Range: 0.0 ~ 1.7976931348623157E308
+	barrackstower = 14.0
+	#Tax increase per level for Library
+	#Range: 0.0 ~ 1.7976931348623157E308
+	libraryUpgrade = 6.0
+	#Tax increase per level for Archery
+	#Range: 0.0 ~ 1.7976931348623157E308
+	archeryUpgrade = 6.0
+	#Base tax for Farmer
+	#Range: 0.0 ~ 1.7976931348623157E308
+	farmer = 11.0
+	#Tax increase per level for Bakery
+	#Range: 0.0 ~ 1.7976931348623157E308
+	bakeryUpgrade = 4.0
+	#Base tax for Fisherman
+	#Range: 0.0 ~ 1.7976931348623157E308
+	fisherman = 10.0
+	#Tax increase per level for University
+	#Range: 0.0 ~ 1.7976931348623157E308
+	universityUpgrade = 10.0
+	#Base tax for Archery
+	#Range: 0.0 ~ 1.7976931348623157E308
+	archery = 12.0
+
